@@ -6,7 +6,7 @@ Using AI to predict whether the patient has Covid-19
 
 
 
-#Please open raw file to understand it better
+#Please open raw file to understand it better.
 
 
 
