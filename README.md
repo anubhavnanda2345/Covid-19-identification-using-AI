@@ -4,6 +4,17 @@ Using AI to predict whether the patient has Covid-19
 Using AI to predict whether the patient has Covid-19
 
 
+
+
+#Please open raw file to understand it better
+
+
+
+
+
+
+
+
  ****First we'll import all the packages required for setting up our Neural Network****
  
 # Importing the Keras libraries and packages
